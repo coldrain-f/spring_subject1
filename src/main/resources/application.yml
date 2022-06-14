@@ -1,6 +1,6 @@
 spring:
   datasource:
-    url: jdbc:mysql://springboot-db.cwxzgpfpc78w.ap-northeast-2.rds.amazonaws.com:3306/myselectshop
+    url: 
     username: admin
     password: qhanftja1!
     driver-class-name: com.mysql.cj.jdbc.Driver
